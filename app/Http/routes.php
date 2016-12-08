@@ -15,5 +15,5 @@ Route::get('/', function () {
     return view('welcome');
 });
 Route::get('/checkView', function(){
-	return view('admin.layout.master');
+	return view('admin.song');
 });

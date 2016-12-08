@@ -224,22 +224,22 @@
         <div class="sidebar-nav navbar-collapse">
             <ul class="nav" id="side-menu">
                 <li>
-                    <a href="#"><i class="fa fa-dashboard fa-fw"></i>Dashboard</a>
+                    <a href="#"><i class="fa fa-dashboard fa-fw"></i>Tổng quan</a>
                 </li>
                 <li>
-                    <a href="#"><i class="glyphicon glyphicon-music"></i> Songs</a>
+                    <a href="#"><i class="glyphicon glyphicon-music"></i> Quản lý bài hát</a>
                 </li>
                 <li>
-                    <a href="#"><i class="fa fa-users fa-fw"></i>Artists</a>
+                    <a href="#"><i class="fa fa-users fa-fw"></i>Quản lý nghệ sĩ</a>
                 </li>
                 <li>
-                    <a href="#"><i class="fa fa-sitemap fa-fw"></i>Categories</a>
+                    <a href="#"><i class="fa fa-sitemap fa-fw"></i>Quản lý thể loại nhạc</a>
                 </li>
                 <li>
-                    <a href="#"><i class="fa fa-user fa-fw"></i>Users</a>
+                    <a href="#"><i class="fa fa-user fa-fw"></i>Quản lý User</a>
                 </li>
                 <li>
-                    <a href="#"><i class="fa fa-area-chart fa-fw"></i>Chart</a>
+                    <a href="#"><i class="fa fa-area-chart fa-fw"></i>Thống kê</a>
                 </li>
             </ul>
         </div>
